@@ -1,0 +1,4 @@
+# Ignore the Food-101 dataset
+data/food-101/
+data/food-101.tar.gz
+data/food-101.tar.gz
